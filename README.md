@@ -1,2 +1,2 @@
 # powershell-public
-Generalized Powershell examples
+Generalized Powershell examples for public use
