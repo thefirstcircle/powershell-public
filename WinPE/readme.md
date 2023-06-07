@@ -1,5 +1,5 @@
 ## This script backs a .WIM file up to a remote drive.
-It's ntended only to be used with a WinPE boot stick containing the WinPE-PowerShell and WinPE-SecureStartup optional components. Instructions for manually creating a WinPE boot stick are below.
+It's intended only to be used with a WinPE boot stick containing the WinPE-PowerShell and WinPE-SecureStartup optional components. Instructions for manually creating a WinPE boot stick are below.
 
 [Using WinPE and startnet.cmd](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/wpeinit-and-startnetcmd-using-winpe-startup-scripts)
 
